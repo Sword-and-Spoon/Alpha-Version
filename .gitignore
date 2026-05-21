@@ -104,3 +104,24 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+
+ImportAssets/
+Undead Survivor/
+Sprites/
+Palettes/
+Prefabs/
+EnemySetup/
+Data/
+Animation/
+Font/
+Tests/
+Tiles
+*.meta
+*.asset
+Thaleah_PixelFont
+TextMesh Pro
+Resources/
+Preset/
+Material/
+Editor
